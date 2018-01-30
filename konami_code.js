@@ -7,5 +7,7 @@ body.addEventListener('keydown', function(e) {
   
    if (key === code[index]) {
     index++;
+    
+    
 })
 }
