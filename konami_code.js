@@ -12,4 +12,4 @@ body.addEventListener('keydown', function(e) {
       alert("Hurray!");
       
        index = 0;
-}
+
